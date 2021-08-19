@@ -33,4 +33,4 @@ const datastr = 'ywj981217@naver.com'
 
 console.log(datastr.match(/.+(?=@)/)[0]) //정규표현식으로 문자열 매치 시킨다. 
 
-console.log(string)
+console.log(string.trim())  //js 내 trim 을 사용하면 문자데이터 안의 공백을 없앨 수 있음
