@@ -3,6 +3,7 @@
 ## 학습내용
 
 ```
+Study 1 [문자 / string]
 // Js 데이터
 
 // String : "" , ' ' , ` ` 
@@ -12,6 +13,20 @@
 // null
 // Array : []
 // object : {}
+```
+
+```
+Study 2 [수학 / math]
+ math 는 수학적인 상수와 함수를 위한 속성과 메서드를 가진 내장객체
+
+// tofixed(n): 정수형 데이터에서 n의 자리 수 까지 뒷 내용을 삭제
+// parseInt : 문자형 데이터를 탐색하여 숫자내용을정수형으로 변환 메소드
+// parsefloat :  // 실수형태로 변환하는 메소드
+
+Math Method 내 다양한 기능 학습 
+// abs , min , max , ceil , floor , round , random
+
+
 ```
 
 ## 학습목표 
