@@ -36,7 +36,8 @@ Study 3 [배열 / array]
   - method 
   // find() : 판별함수 
   // length : 배열의 길이를 확인 할 수 있는 메소드
-
+  // forEach() : 배열 내 반복 
+  // map() : // 
 
 ```
 ## 학습목표 
