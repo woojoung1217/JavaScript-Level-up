@@ -25,14 +25,23 @@ Study 2 [수학 / math]
 
 Math Method 내 다양한 기능 학습 
 // abs , min , max , ceil , floor , round , random
+```
+
+```
+Study 3 [배열 / array]
+  array 의 특징은 'zero-based-numbering' 
+
+ // array : 배열 []
+ //  index : 배열 내의 특정 요소(element or item )를 지칭 
+  - method 
+  // find() : 판별함수 
+  // length : 배열의 길이를 확인 할 수 있는 메소드
 
 
 ```
-
 ## 학습목표 
 ```
 Js 내의 데이터 타입을 복습하고 데이터 타입에서
-사용 할 수 있는 메소드가 어떤 종류가 있는지 확인해보고 
-사용 해본다.
+사용 할 수 있는 메소드가 어떤 종류가 있는지 확인해보고 사용 해본다.
 ```
 
