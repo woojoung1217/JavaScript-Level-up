@@ -61,8 +61,8 @@ fruits.reverse()
 console.log(fruits)
 console.log(fruits)
 
-// .splice()
+// .splice() : 특정한 인덱스 요소를 삭제하는데도 쓰이지만 특정한 인덱스 사이에 끼어넣을 수도 있음
 
 const testnumbers = [1,2,3,4]
-testnumbers.splice(2,0 ,999)
+testnumbers.splice(2,0 ,999)  
 console.log(testnumbers)
