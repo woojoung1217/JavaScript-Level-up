@@ -62,7 +62,14 @@ console.log(fruits)
 console.log(fruits)
 
 // .splice() : 특정한 인덱스 요소를 삭제하는데도 쓰이지만 특정한 인덱스 사이에 끼어넣을 수도 있음
-
+ // .splice ('선택할요소','삭제할 인덱스 수 ', '새로운데이터 ')
 const testnumbers = [1,2,3,4]
-testnumbers.splice(2,0 ,999)  
-console.log(testnumbers)
+// testnumbers.splice(2,0 ,999)  // 배열의 2번째 요소에서 0 개만큼 삭제하고 그 자리에 999를 끼어 넣어라 !
+// console.log(testnumbers)
+
+testnumbers.splice(1,1,0) // 결과값 : 1,0,3,4
+console.log(testnumbers) 
+
+const testfurits = ['apple','cherry','banana']
+testfurits.splice(1,1,'pineapple')
+console.log(testfurits)
