@@ -19,7 +19,7 @@ console.log(fruits)
 
 // .forEach() 반복
  
-fruits.forEach(function(element , index){
+fruits.forEach((element , index)=>{
   console.log(element,index)
 })
 

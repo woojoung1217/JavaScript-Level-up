@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#main-menu,
+#sub-menu,
+#sub-menu2{
+
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: block;
+}
+
+
+#main-menu > li {
+  display: block;
+  float: left;
+
+  margin-right: 10px;
+  padding: 10px;
+}
+
+#main-menu > li > a {
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  padding: 12 36px;
+  color : #000
+}
+
+#sub-menu {
+  position: absolute;
+  opacity: 0;
+  visibility: hidden;
+}
+
+#sub-menu > li {
+  font-size:12px;
+  padding: 10px;
+  transition: 1s;
+}
+
+
+#sub-menu > li > a {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  color: #000;
+}
+
+#main-menu > li:hover #sub-menu {
+   opacity: 1;
+   visibility: visible;
+}
+
+#sub-menu2 {
+  opacity: 0;
+  visibility: hidden;
+}
+
+#sub-menu2 >li{
+  padding: 10px;
+  font-size: 12px;
+}
+
+#sub-menu2 >li > a{
+  text-decoration: none;
+  color: #000;
+}
+
+#main-menu >li:hover #sub-menu2{
+  opacity: 1;
+  visibility: visible;
+}
