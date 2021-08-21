@@ -60,3 +60,9 @@ console.log(numbers)
 fruits.reverse()
 console.log(fruits)
 console.log(fruits)
+
+// .splice()
+
+const testnumbers = [1,2,3,4]
+testnumbers.splice(2,0 ,999)
+console.log(testnumbers)
