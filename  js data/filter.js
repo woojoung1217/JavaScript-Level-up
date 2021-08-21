@@ -56,3 +56,7 @@ console.log(numbers)  // 원본 배열에 특정 인수를 '맨 앞 ' 에 밀어
 numbers.reverse()
 
 console.log(numbers)
+
+fruits.reverse()
+console.log(fruits)
+console.log(fruits)
