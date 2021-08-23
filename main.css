@@ -1,16 +1,17 @@
 body {
   margin: 0;
   padding: 0;
+
 }
 
 #main-menu,
 #sub-menu,
 #sub-menu2{
-
   margin: 0;
   padding: 0;
   list-style: none;
   display: block;
+  position: absolute;
 }
 
 
