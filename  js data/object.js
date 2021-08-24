@@ -31,7 +31,7 @@ const newTarget = Object.assign(userAge, userEmail);
   console.log(userEmail)
   console.log(newTarget===userAge)  //결과 true
 
-  const check = { k:123}
+  const check = {k:123}
   const check2 = {k:123}
   const ab =Object.assign(check,check2)
 

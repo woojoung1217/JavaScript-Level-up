@@ -49,7 +49,9 @@ Study 3 [배열 / array]
 ``` 
 Study 4 [객체 / object]
  // Object.assign(대상객체 , 출처객체) // 출처객체의 내용을 대상객체로 덮어 씌운다. 
- 
+     - 특정한 요소를 복사 할 때도 사용할 수 있음
+Study 5 [keys]
+ // 오브젝트 객체의 .keys() 를 사용하여 객체의 key값 value값에 접근 할 수 있다.
 
 
 ```
