@@ -37,3 +37,11 @@ const newTarget = Object.assign(userAge, userEmail);
 
 
   console.log(ab===check)  // 결과 false 
+
+  const newab = {
+    name : 'yoonwoojoung',
+    age : 24,
+    location : 'seoul'
+  }
+
+  console.log(newab)
