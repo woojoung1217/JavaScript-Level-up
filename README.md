@@ -7,12 +7,19 @@ Study 1 [문자 / string]
 // Js 데이터
 
 // String : "" , ' ' , ` ` 
+
 // Number 
+
 // Boolean : true , false 
+
 //undefinded 
+
 // null
+
 // Array : []
+
 // object : {}
+
 ```
 
 ```
