@@ -64,6 +64,11 @@ Stduy 7 [전개 연산자 / Spread]
 
 // 전개 연산자란 쉼표로 구분된 각각의 아이템이 배열데이터로 전개되어 사용되는 구조
 
+Study 8 [데이터 불변성 (Immutability)]
+// 원시데이터 : String , Number , Boolean , undefinend , null
+// 참조형데이터 : Object , Array , Function 
+
+
 ```
 
 ## 학습목표 
