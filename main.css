@@ -16,9 +16,10 @@ body {
 
 
 #main-menu > li {
-  display: block;
+  display: flex;
   float: left;
-
+  width: 100px;
+  height: 300px;
   margin-right: 10px;
   padding: 10px;
 }
@@ -29,6 +30,7 @@ body {
   text-decoration: none;
   padding: 12 36px;
   color : #000
+
 }
 
 #sub-menu {
