@@ -38,10 +38,12 @@ Math Method 내 다양한 기능 학습
 Study 3 [배열 / array]
   array 의 특징은 'zero-based-numbering' 
 
- // array : 배열 []
- //  index : 배열 내의 특정 요소(element or item )를 지칭 
+ // array : 배열 [] 
+ //  index : 배열 내의 특정 요소(element or item )를 지칭  
+ 
   - method 
   // find() : 판별함수 
+  
   // length : 배열의 길이를 확인 할 수 있는 메소드
   // forEach() : 배열 내 반복 
   // map() : // 
