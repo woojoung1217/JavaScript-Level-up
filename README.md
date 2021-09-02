@@ -12,6 +12,7 @@ Study 1 [문자 / string]
 
 // Boolean : true , false 
 
+
 //undefinded 
 
 // null
