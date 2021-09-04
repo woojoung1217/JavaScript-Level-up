@@ -10,7 +10,7 @@ Study 1 [문자 / string]
 
 // Number 
 
-// Boolean : true , false 
+//  Boolean : true , false 
 
 
 //undefinded 
