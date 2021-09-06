@@ -6,7 +6,9 @@
 Study 1 [문자 / string]
 // Js 데이터
 
-// String : "" , ' ' , ` ` 
+// String : "" , ' ' , ` `  
+
+
 
 // Number 
 
